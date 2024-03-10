@@ -1,1 +1,1 @@
-# Des.Disp.Moveis
+# Exercícios em Sala - Desenvolvimento p/ Dispositivos móveis (I)
